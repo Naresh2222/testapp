@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="schoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="attandance">
+    <Key>
+      <PropertyRef Name="atid" />
+    </Key>
+    <Property Name="atid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="studentname" Type="nvarchar(max)" />
+    <Property Name="class" Type="nvarchar(max)" />
+    <Property Name="dateofattandance" Type="date" Nullable="false" />
+    <Property Name="attandences" Type="varchar" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="classes">
+    <Key>
+      <PropertyRef Name="classid" />
+    </Key>
+    <Property Name="classid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="classname" Type="nvarchar(max)" />
+    <Property Name="classteacher" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="payment">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="paymentname" Type="nvarchar(max)" />
+    <Property Name="studentid" Type="int" Nullable="false" />
+    <Property Name="studnetname" Type="nvarchar(max)" />
+    <Property Name="feepaid" Type="int" Nullable="false" />
+    <Property Name="feepending" Type="int" Nullable="false" />
+    <Property Name="totalfee" Type="int" Nullable="false" />
+    <Property Name="lastpaiddate" Type="date" Nullable="false" />
+    <Property Name="class" Type="nvarchar(max)" />
+    <Property Name="islastpay" Type="bit" Nullable="false" />
+    <Property Name="isactive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="studentid" />
+    </Key>
+    <Property Name="studentid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="studentname" Type="nvarchar(max)" />
+    <Property Name="fathername" Type="nvarchar(max)" />
+    <Property Name="phonenumber" Type="varchar" MaxLength="15" />
+    <Property Name="dateofbirth" Type="date" Nullable="false" />
+    <Property Name="gender" Type="bit" Nullable="false" />
+    <Property Name="adress" Type="nvarchar(max)" />
+    <Property Name="photo" Type="varbinary(max)" />
+    <Property Name="dateofjoining" Type="date" Nullable="false" />
+    <Property Name="class" Type="nvarchar(max)" />
+    <Property Name="totalfee" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="teacher">
+    <Key>
+      <PropertyRef Name="tid" />
+    </Key>
+    <Property Name="tid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="teachername" Type="nvarchar(max)" />
+    <Property Name="sbt" Type="nvarchar(max)" />
+    <Property Name="isactive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="schoolModelStoreContainer">
+    <EntitySet Name="attandance" EntityType="Self.attandance" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="classes" EntityType="Self.classes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="payment" EntityType="Self.payment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="student" EntityType="Self.student" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="teacher" EntityType="Self.teacher" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,122 @@
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\EntityFramework.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\WebGrease.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\EntityFramework.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\kk\documents\visual studio 2015\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\kk\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\itextsharp.dll
+C:\Users\kk\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\itextsharp.xmlworker.dll
+C:\Users\kk\Documents\Visual Studio 2015\Projects\WebApplication2\WebApplication2\bin\itextsharp.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\ApplicationInsights.config
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\EntityFramework.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\itextsharp.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\itextsharp.xmlworker.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\EntityFramework.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\EntityFramework.SqlServer.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\itextsharp.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Naresh\source\repos\SchoolApplication\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

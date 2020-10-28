@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="schoolModelStoreContainer" CdmEntityContainer="schoolEntities2">
+    <EntitySetMapping Name="classes">
+      <EntityTypeMapping TypeName="schoolModel.class">
+        <MappingFragment StoreEntitySet="classes">
+          <ScalarProperty Name="classid" ColumnName="classid" />
+          <ScalarProperty Name="classname" ColumnName="classname" />
+          <ScalarProperty Name="classteacher" ColumnName="classteacher" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="payments">
+      <EntityTypeMapping TypeName="schoolModel.payment">
+        <MappingFragment StoreEntitySet="payment">
+          <ScalarProperty Name="pid" ColumnName="pid" />
+          <ScalarProperty Name="paymentname" ColumnName="paymentname" />
+          <ScalarProperty Name="studentid" ColumnName="studentid" />
+          <ScalarProperty Name="studnetname" ColumnName="studnetname" />
+          <ScalarProperty Name="feepaid" ColumnName="feepaid" />
+          <ScalarProperty Name="feepending" ColumnName="feepending" />
+          <ScalarProperty Name="totalfee" ColumnName="totalfee" />
+          <ScalarProperty Name="lastpaiddate" ColumnName="lastpaiddate" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="islastpay" ColumnName="islastpay" />
+          <ScalarProperty Name="isactive" ColumnName="isactive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="schoolModel.student">
+        <MappingFragment StoreEntitySet="student">
+          <ScalarProperty Name="studentid" ColumnName="studentid" />
+          <ScalarProperty Name="studentname" ColumnName="studentname" />
+          <ScalarProperty Name="fathername" ColumnName="fathername" />
+          <ScalarProperty Name="phonenumber" ColumnName="phonenumber" />
+          <ScalarProperty Name="dateofbirth" ColumnName="dateofbirth" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="dateofjoining" ColumnName="dateofjoining" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="totalfee" ColumnName="totalfee" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="teachers">
+      <EntityTypeMapping TypeName="schoolModel.teacher">
+        <MappingFragment StoreEntitySet="teacher">
+          <ScalarProperty Name="tid" ColumnName="tid" />
+          <ScalarProperty Name="teachername" ColumnName="teachername" />
+          <ScalarProperty Name="sbt" ColumnName="sbt" />
+          <ScalarProperty Name="isactive" ColumnName="isactive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="attandances">
+      <EntityTypeMapping TypeName="schoolModel.attandance">
+        <MappingFragment StoreEntitySet="attandance">
+          <ScalarProperty Name="attandences" ColumnName="attandences" />
+          <ScalarProperty Name="dateofattandance" ColumnName="dateofattandance" />
+          <ScalarProperty Name="class" ColumnName="class" />
+          <ScalarProperty Name="studentname" ColumnName="studentname" />
+          <ScalarProperty Name="atid" ColumnName="atid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
